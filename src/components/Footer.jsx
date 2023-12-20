@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div className='bg-gray-200 sticky top-[100vh]'>
         <h1 className='pt-3 pb-3 pl-5'>India</h1>
-        <hr class="h-px border-0 bg-gray-300"></hr>
+        <hr className="h-px border-0 bg-gray-300"></hr>
         <div className='flex flex-row justify-between'>
         <div className='flex flex-row gap-5 pt-3 pb-3 pl-5'>
             <h1>About</h1>
